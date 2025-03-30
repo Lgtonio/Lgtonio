@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there! I'm Luis
 
-<!--
-**Lgtonio/Lgtonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Passionate developer with experience in C++, Python, and Java.**  
+🧠 Always learning new technologies and tools to build efficient and scalable solutions.
 
-Here are some ideas to get you started:
+## 🚀 Technologies I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 **Python** – scripting, automation, Django (currently learning)
+- ☕ **Java** – backend development, data structures
+- ⚙️ **C++** – algorithms, low-level structures, performance
+- 🖥️ Others: Git, GitHub, VS Code
+
+## 📚 Currently Learning
+
+- 📦 Django for backend web development with Python  
+- 🧵 Concurrency and data structures in Java  
+- 📱 Swift and SwiftUI (as a hobby)  
+- 🀄 Mandarin Chinese (because learning something different is always fun 😄)
+
+## 📈 GitHub Stats
+
+![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+## 📬 Contact
+
+- 📧 Email: lgtonio@gmail.com  
+
+
+---
+
+Thanks for stopping by! 🚀
